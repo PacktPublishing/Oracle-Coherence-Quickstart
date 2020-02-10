@@ -1,5 +1,5 @@
 # Oracle Coherence Quickstart [Video]
-This is the code repository for [Oracle Coherence Quickstart [Video]](https://www.packtpub.com/application-development/oracle-apex-techniques-video?utm_source=github&utm_medium=repository&utm_campaign=9781849689342), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Oracle Coherence Quickstart [Video]](https://www.packtpub.com/networking-and-servers/oracle-coherence-quickstart-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Oracle Coherence is an in-memory distributed data grid solution for clustered applications and application servers. It enables you to build more reliable and scalable data driven applications, by removing any single points of failure and database server access bottlenecks.
 
@@ -28,6 +28,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Packt video courses are designed to cover the breadth of the topic in short, hands-on, task-based videos. Each course is divided into short manageable sections, so you can watch the whole thing or jump to the bit you need. The focus is on practical instructions and screencasts showing you how to get the job done.
 
 This is a step-by-step guide to creating scalable memory data grid applications and perform cache operations using Oracle Coherence. It explains all you need to know through simple examples and projects, demonstrating what features are best used, and when; and also examines how to implement services that really matter when optimizing your cache servers.
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
 100 MB disk space for complete installation
